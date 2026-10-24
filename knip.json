@@ -1,0 +1,4 @@
+{
+  "entry": ["src/consumer.ts"],
+  "project": ["src/**/*.ts"]
+}
